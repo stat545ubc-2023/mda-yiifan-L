@@ -1,6 +1,6 @@
 ---
 title: "Mini Data-Analysis Deliverable 1"
-output: md_document
+output: github_document
 ---
 
 # Welcome to your (maybe) first-ever data analysis project!
